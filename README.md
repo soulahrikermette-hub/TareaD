@@ -6,7 +6,7 @@ Proyecto académico (UTP) para practicar trabajo en equipo con GitHub: tablero K
 Construir una página web sencilla donde un alumno pueda registrarse y matricularse en cursos.
 
 ## Integrantes
-- Kermit Soulahri
+- Kermit
 - Ccahuana Huillca Giancarlo
 
 ## Cómo usarlo
